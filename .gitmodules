@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "MSMwRA"]
 	path = MSMwRA
 	url = https://github.com/cran/MSMwRA
-	shallow = true
-	registered = true
 [submodule "MVTests"]
 	path = MVTests
 	url = https://github.com/cran/MVTests
-	shallow = true
-	registered = true
 [submodule "RDnp"]
 	path = RDnp
 	url = https://github.com/cran/RDnp
-	shallow = true
-	registered = true
 [submodule "SAP"]
 	path = SAP
 	url = https://github.com/cran/SAP
-	shallow = true
-	registered = true
