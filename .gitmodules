@@ -7,7 +7,7 @@
 	url = https://github.com/cran/MSMwRA
 [submodule "MVTests"]
 	path = MVTests
-	url = https://github.com/cran/MVTests
+	url = https://github.com/hsnbulut/mvtests
 [submodule "RDnp"]
 	path = RDnp
 	url = https://github.com/cran/RDnp
