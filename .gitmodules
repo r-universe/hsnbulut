@@ -11,6 +11,9 @@
 [submodule "RDnp"]
 	path = RDnp
 	url = https://github.com/cran/RDnp
+[submodule "RobPC"]
+	path = RobPC
+	url = https://github.com/cran/RobPC
 [submodule "SAP"]
 	path = SAP
 	url = https://github.com/cran/SAP
