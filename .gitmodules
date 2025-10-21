@@ -17,3 +17,6 @@
 [submodule "SAP"]
 	path = SAP
 	url = https://github.com/cran/SAP
+[submodule "epmfd"]
+	path = epmfd
+	url = https://github.com/hsnbulut/epmfd
